@@ -22,25 +22,27 @@
 Strong experience in using the latest approaches including MVC/MVP in the browser, and event-driven applications using NodeJS & ReactJS.
 
 I have technical expertise with the following Technologies 
-:zap ReactJs / Redux  / NextJS
-:zap React-native
-:zap Nodejs / Express JS / FeatherJS / NestJS
-:zap Python-Flask
-:zap SQL(MySQL, PostgreSQL), NoSQL(MongoDB, CouchDB) ,Redis 
-:zap Twillo  / Agora / Pusher / Pubnub / Auth0
-:zap HTML5, CSS3, Sass/Less, Bootstrap , Bootstrap / Material UI / Ant Design / Formik
-:zap Javascript (ES5/ES6+, Babel),Typescript, Webpack, Gulp, Babel,
-:zap  SocketIO / Socket JS / Web Socket 
-:zap MailChimp / Sparkpost / Sendgrid
-:zap Paypal / Stripe / Authorize.net
-:zap Test: Jest, Jasmine, Mocha, Karma, Chai ,JMeter
-:zap UI/UX, responsive web,
-:zap Git, Bitbucket, Trello, Jira,Asana
-:zap GCP / Google Cloud Platform / Cloud Functions / Cloud Run / Cloud Build / Cloud Functions 
-:zap Aws Services / AWS  / S3 / EC2 / Lambda / API Gateway / AWS Cognito
-:zap Blockchain technologies - Web3 / Truffle / Geth / Smart Contracts
+⚡ ReactJs / Redux  / NextJS
+⚡ React-native
+⚡ Nodejs / Express JS / FeatherJS / NestJS
+⚡ Python-Flask
+⚡ SQL(MySQL, PostgreSQL), NoSQL(MongoDB, CouchDB) ,Redis 
+⚡ Twillo  / Agora / Pusher / Pubnub / Auth0
+⚡ HTML5, CSS3, Sass/Less, Bootstrap , Bootstrap / Material UI / Ant Design / Formik
+⚡ Javascript (ES5/ES6+, Babel),Typescript, Webpack, Gulp, Babel,
+⚡  SocketIO / Socket JS / Web Socket 
+⚡ MailChimp / Sparkpost / Sendgrid
+⚡ Paypal / Stripe / Authorize.net
+⚡ Test: Jest, Jasmine, Mocha, Karma, Chai ,JMeter
+⚡ UI/UX, responsive web,
+⚡ Git, Bitbucket, Trello, Jira,Asana
+⚡ GCP / Google Cloud Platform / Cloud Functions / Cloud Run / Cloud Build / Cloud Functions 
+⚡ Aws Services / AWS  / S3 / EC2 / Lambda / API Gateway / AWS Cognito
+⚡ Blockchain technologies - Web3 / Truffle / Geth / Smart Contracts
 
 My focus is on developing practical business solutions, Using a wide array of mature and proven plugins, components and 3rd party solutions to solve common small business requirements.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsuthar)]
 
 
 
