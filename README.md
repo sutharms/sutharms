@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.licdn.com/dms/image/C4D16AQFbHEXzWoqWNg/profile-displaybackgroundimage-shrink_350_1400/0/1659013889853?e=1682553600&v=beta&t=rcWKbKDdAefNDZjJjRbQPFeXXryyEIam4b-bFiwXlj4)" width="600" height="300"/>
+  <img src="https://3ecenter.s3.ap-south-1.amazonaws.com/sachinv4.jpg" width="600" height="300"/>
 </div>
 
 ### Hi there 👋
