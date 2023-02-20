@@ -25,26 +25,26 @@
 Strong experience in using the latest approaches including MVC/MVP in the browser, and event-driven applications using NodeJS & ReactJS.
 ##
 
-I have technical expertise with the following Technologies ##
-⚡ ReactJs / Redux  / NextJS ##
-⚡ React-native ##
-⚡ Nodejs / Express JS / FeatherJS / NestJS ##
-⚡ Python-Flask ##
-⚡ SQL(MySQL, PostgreSQL), NoSQL(MongoDB, CouchDB) ,Redis ##
-⚡ Twillo  / Agora / Pusher / Pubnub / Auth0 ##
-⚡ HTML5, CSS3, Sass/Less, Bootstrap , Bootstrap / Material UI / Ant Design / Formik##
-⚡ Javascript (ES5/ES6+, Babel),Typescript, Webpack, Gulp, Babel, ##
-⚡  SocketIO / Socket JS / Web Socket ##
-⚡ MailChimp / Sparkpost / Sendgrid ##
-⚡ Paypal / Stripe / Authorize.net ##
-⚡ Test: Jest, Jasmine, Mocha, Karma, Chai ,JMeter ##
-⚡ UI/UX, responsive web, ##
-⚡ Git, Bitbucket, Trello, Jira,Asana ##
-⚡ GCP / Google Cloud Platform / Cloud Functions / Cloud Run / Cloud Build / Cloud Functions ##
-⚡ Aws Services / AWS  / S3 / EC2 / Lambda / API Gateway / AWS Cognito ##
-⚡ Blockchain technologies - Web3 / Truffle / Geth / Smart Contracts ##
+I have technical expertise with the following Technologies ## <br/>
+⚡ ReactJs / Redux  / NextJS ##   <br/>
+⚡ React-native ##  <br/>
+⚡ Nodejs / Express JS / FeatherJS / NestJS ##  <br/>
+⚡ Python-Flask ##  <br/>
+⚡ SQL(MySQL, PostgreSQL), NoSQL(MongoDB, CouchDB) ,Redis ##  <br/>
+⚡ Twillo  / Agora / Pusher / Pubnub / Auth0 ##  <br/>
+⚡ HTML5, CSS3, Sass/Less, Bootstrap , Bootstrap / Material UI / Ant Design / Formik##  <br/>
+⚡ Javascript (ES5/ES6+, Babel),Typescript, Webpack, Gulp, Babel, ##  <br/>
+⚡  SocketIO / Socket JS / Web Socket ##  <br/>
+⚡ MailChimp / Sparkpost / Sendgrid ##  <br/>
+⚡ Paypal / Stripe / Authorize.net ##  <br/>
+⚡ Test: Jest, Jasmine, Mocha, Karma, Chai ,JMeter ##  <br/>
+⚡ UI/UX, responsive web, ##  <br/>
+⚡ Git, Bitbucket, Trello, Jira,Asana ##  <br/>
+⚡ GCP / Google Cloud Platform / Cloud Functions / Cloud Run / Cloud Build / Cloud Functions ##  <br/>
+⚡ Aws Services / AWS  / S3 / EC2 / Lambda / API Gateway / AWS Cognito ##  <br/>
+⚡ Blockchain technologies - Web3 / Truffle / Geth / Smart Contracts ##  <br/>
 
-My focus is on developing practical business solutions, Using a wide array of mature and proven plugins, components and 3rd party solutions to solve common small business requirements.
+My focus is on developing practical business solutions, Using a wide array of mature and proven plugins, components and 3rd party solutions to solve common small business requirements.  <br/>
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsuthar)] -->
 
