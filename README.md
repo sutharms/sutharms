@@ -41,8 +41,8 @@ I have technical expertise with the following Technologies
 ⚡ Blockchain technologies - Web3 / Truffle / Geth / Smart Contracts
 
 My focus is on developing practical business solutions, Using a wide array of mature and proven plugins, components and 3rd party solutions to solve common small business requirements.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsuthar)]
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsuthar)] -->
 
 
 
