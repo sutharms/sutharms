@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://3ecenter.s3.ap-south-1.amazonaws.com/sachinv4.jpg" width="600" height="300"/>
+  <img src="https://3ecenter.s3.ap-south-1.amazonaws.com/sachinv4.jpg" width="300" style="border-radius:50%" height="300"/>
 </div>
 
 ### Hi there 👋
