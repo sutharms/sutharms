@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://www.springboard.com/blog/wp-content/uploads/2020/07/5-qualities-of-high-performing-software-engineers.png" width="300" class="round" height="300"/>
+  <img src="https://3ecenter.s3.ap-south-1.amazonaws.com/sachinv4.jpg" style="border-radius:50%" width="300" class="round" height="300"/>
+
 </div>
 
 ### Hi there 👋
@@ -13,7 +14,6 @@
 ✅ 100% Job Success Rate </br>
 ✅ Wide Range of Skills</br>
 
-![](https://komarev.com/ghpvc/?username=sutharms)
 
 <h3 align="left">🧮 About me</h3>
 
